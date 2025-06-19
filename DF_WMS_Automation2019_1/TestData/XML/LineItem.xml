@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LineItem>
+	<DoLineNbr>1</DoLineNbr>
+	<ItemName>1002185891</ItemName>
+	<Description xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+	<DoLineStatus>Released</DoLineStatus>
+	<IsCancelled>FALSE</IsCancelled>
+	<AllocationSourceType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+	<ReferenceField1 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+	<ReferenceField2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+	<ReferenceField3 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+	<IsHazmat>FALSE</IsHazmat>
+	<DangerousGoodsCode/>
+	<MerchandizingDepartment xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+	<WaveAllocationType/>
+	<WaveProcessingType>5</WaveProcessingType>
+	<VasProcessType/>
+	<PrepackGroupCode/>
+	<PrepackQty/>
+	<LpnType>SAP</LpnType>
+	<AssortmentNbr/>
+	<Price>8.69</Price>
+	<RetailPrice>8.69</RetailPrice>
+	<PurchaseOrderNbr xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+	<PurchaseOrderLineNbr xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+	<ExternalSystemPurchaseOrderNbr xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+	<StoreDepartment xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+	<MerchandizeGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+	<MerchandizeType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+	<RtsId xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+	<RtsLineId xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+	<AllocationSourceLineId xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+	<AllocationSourceId xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+	<FulfillmentType>1</FulfillmentType>
+	<Quantity>
+		<OrderQty>1</OrderQty>
+		<QtyUOM>EA</QtyUOM>
+	</Quantity>
+	<LineProcessInfo>
+		<LineRefTextField1 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+	</LineProcessInfo>
+	<InventoryAttributes>
+		<InventoryType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+		<ProductStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+		<BatchNbr xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+		<ItemAttribute1 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+		<ItemAttribute2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+		<ItemAttribute3 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+		<ItemAttribute4 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+		<ItemAttribute5 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+	</InventoryAttributes>
+</LineItem>

@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?><PO_850>
+<msgHdr>
+<docType>Purchase Order</docType>
+<origID>GERS</origID>
+<origType>ZZ</origType>
+<recipID>HDCOM</recipID>
+<recipType>ZZ</recipType>
+<strNbr>8119</strNbr>
+</msgHdr>
+<po>
+<poHdr>
+<locId>6777</locId>
+<byoNbr>25</byoNbr>
+<docTrcID>0016182762</docTrcID>
+<poNbr>16182762</poNbr>
+<custOrdNbr>QA16182762</custOrdNbr>
+<trnsPrpCd>00</trnsPrpCd>
+<ordTypCd>DR</ordTypCd>
+<shipToType>STH</shipToType>
+<poCrtDt>2019-04-05T10:00:00</poCrtDt>
+<currCd>USD</currCd>
+<exchRt>1</exchRt>
+<mVndrNm>
+</mVndrNm>
+<mVndrNbr>6777</mVndrNbr>
+<emailAdr>
+</emailAdr>
+<carrierDtl>
+<trnsMde>GA</trnsMde>
+<carrQLCd>
+</carrQLCd>
+<SCAC>
+</SCAC>
+</carrierDtl>
+<CustAddrDtl>
+<name>Herman Sykes</name>
+<addrLn>453 Admial Craik Dr</addrLn>
+<addrLn2>
+</addrLn2>
+<addrLn3>
+</addrLn3>
+<city>GRAND ISLE</city>
+<stateCd>LA</stateCd>
+<postCd>70358</postCd>
+<ctryCd>US</ctryCd>
+<phnNbr1>
+<phnNbr>
+</phnNbr>
+</phnNbr1>
+</CustAddrDtl>
+<ShpToAddrDtl>
+<name>Herman Sykes</name>
+<addrLn>453 Admial Craik Dr</addrLn>
+<addrLn2>
+</addrLn2>
+<addrLn3>
+</addrLn3>
+<city>GRAND ISLE</city>
+<stateCd>LA</stateCd>
+<postCd>70358</postCd>
+<ctryCd>US</ctryCd>
+<phnNbr1>
+<phnNbr>5042534528</phnNbr>
+</phnNbr1>
+</ShpToAddrDtl>
+<StrAddrDtl>
+<strNbr>8119</strNbr>
+<name>Home Depot</name>
+</StrAddrDtl>
+<GiftMessage>
+<mess1>
+</mess1>
+<mess2>
+</mess2>
+<mess3>
+</mess3>
+</GiftMessage>
+</poHdr>
+<poDtl>
+<poLnNbr>1</poLnNbr>
+<merDptNbr>25</merDptNbr>
+<poLnQty>1.0</poLnQty>
+<uom>EA</uom>
+<poLnUnitCst>20.61</poLnUnitCst>
+<skuNbr>1001868797</skuNbr>
+<upc>885911229050</upc>
+<skuDesc>Combo Kit (2??Tool) with (2) Batteries 3Ah, Charger and Bag</skuDesc>
+<prodNbr>202922445</prodNbr>
+<PartNbr>DCK290L2</PartNbr>
+<dfcCoreVendorNo>19282</dfcCoreVendorNo>
+<sellPkWt>210.40</sellPkWt>
+<ShpToAddrDtl>
+<name>Herman Sykes</name>
+<addrLn>453 Admial Craik Dr</addrLn>
+<addrLn2>
+</addrLn2>
+<addrLn3>
+</addrLn3>
+<city>GRAND ISLE</city>
+<stateCd>LA</stateCd>
+<postCd>70358</postCd>
+<ctryCd>US</ctryCd>
+<phnNbr1>
+<phnNbr>5042534528</phnNbr>
+</phnNbr1>
+</ShpToAddrDtl>
+<Item>
+<length>7.00</length>
+<width>15.20</width>
+<depth>9.80</depth>
+<dimUom>INCH</dimUom>
+<weight>11.5</weight>
+<wtUom>LBS</wtUom>
+<isHazmat>N</isHazmat>
+</Item>
+<comboType>
+</comboType>
+<vasInstruction>
+</vasInstruction>
+</poDtl>
+<poDtl>
+<poLnNbr>2</poLnNbr>
+<merDptNbr>25</merDptNbr>
+<poLnQty>1.0</poLnQty>
+<uom>EA</uom>
+<poLnUnitCst>20.61</poLnUnitCst>
+<skuNbr>1002545549</skuNbr>
+<upc>885911229050</upc>
+<skuDesc>Combo Kit (2??Tool) with (2) Batteries 3Ah, Charger and Bag</skuDesc>
+<prodNbr>202922445</prodNbr>
+<PartNbr>DCK290L2</PartNbr>
+<dfcCoreVendorNo>19282</dfcCoreVendorNo>
+<sellPkWt>210.40</sellPkWt>
+<ShpToAddrDtl>
+<name>Herman Sykes</name>
+<addrLn>453 Admial Craik Dr</addrLn>
+<addrLn2>
+</addrLn2>
+<addrLn3>
+</addrLn3>
+<city>GRAND ISLE</city>
+<stateCd>LA</stateCd>
+<postCd>70358</postCd>
+<ctryCd>US</ctryCd>
+<phnNbr1>
+<phnNbr>5042534528</phnNbr>
+</phnNbr1>
+</ShpToAddrDtl>
+<Item>
+<length>7.00</length>
+<width>15.20</width>
+<depth>9.80</depth>
+<dimUom>INCH</dimUom>
+<weight>11.5</weight>
+<wtUom>LBS</wtUom>
+<isHazmat>N</isHazmat>
+</Item>
+<comboType>
+</comboType>
+<vasInstruction>
+</vasInstruction>
+</poDtl>
+<poDtl>
+<poLnNbr>3</poLnNbr>
+<merDptNbr>25</merDptNbr>
+<poLnQty>1.0</poLnQty>
+<uom>EA</uom>
+<poLnUnitCst>20.61</poLnUnitCst>
+<skuNbr>1002422931</skuNbr>
+<upc>885911229050</upc>
+<skuDesc>Combo Kit (2??Tool) with (2) Batteries 3Ah, Charger and Bag</skuDesc>
+<prodNbr>202922445</prodNbr>
+<PartNbr>DCK290L2</PartNbr>
+<dfcCoreVendorNo>19282</dfcCoreVendorNo>
+<sellPkWt>210.40</sellPkWt>
+<ShpToAddrDtl>
+<name>Herman Sykes</name>
+<addrLn>453 Admial Craik Dr</addrLn>
+<addrLn2>
+</addrLn2>
+<addrLn3>
+</addrLn3>
+<city>GRAND ISLE</city>
+<stateCd>LA</stateCd>
+<postCd>70358</postCd>
+<ctryCd>US</ctryCd>
+<phnNbr1>
+<phnNbr>5042534528</phnNbr>
+</phnNbr1>
+</ShpToAddrDtl>
+<Item>
+<length>7.00</length>
+<width>15.20</width>
+<depth>9.80</depth>
+<dimUom>INCH</dimUom>
+<weight>11.5</weight>
+<wtUom>LBS</wtUom>
+<isHazmat>N</isHazmat>
+</Item>
+<comboType>
+</comboType>
+<vasInstruction>
+</vasInstruction>
+</poDtl>
+<poSummary>
+</poSummary>
+</po>
+</PO_850>

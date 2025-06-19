@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><PO_850>
+<msgHdr>
+<docType>Purchase Order</docType>
+<origID>GERS</origID>
+<origType>ZZ</origType>
+<recipID>HDCOM</recipID>
+<recipType>ZZ</recipType>
+<strNbr>8119</strNbr>
+</msgHdr>
+<po>
+<poHdr>
+<locId>6707</locId>
+<byoNbr>25</byoNbr>
+<docTrcID>0016182599</docTrcID>
+<poNbr>16182599</poNbr>
+<custOrdNbr>QA16182599</custOrdNbr>
+<trnsPrpCd>00</trnsPrpCd>
+<ordTypCd>DR</ordTypCd>
+<shipToType>STH</shipToType>
+<poCrtDt>2019-03-15T10:00:00</poCrtDt>
+<currCd>USD</currCd>
+<exchRt>1</exchRt>
+<mVndrNm>
+</mVndrNm>
+<mVndrNbr>6707</mVndrNbr>
+<shpByDt>2018-07-16</shpByDt>
+<shpReqDt>2018-07-16</shpReqDt>
+<emailAdr>
+</emailAdr>
+<carrierDtl>
+<trnsMde>SG</trnsMde>
+<carrQLCd>
+</carrQLCd>
+<SCAC>
+</SCAC>
+</carrierDtl>
+<CustAddrDtl>
+<name>Mark Hund</name>
+<addrLn>
+</addrLn>
+<addrLn2>
+</addrLn2>
+<addrLn3>
+</addrLn3>
+<city>
+</city>
+<stateCd>
+</stateCd>
+<postCd>
+</postCd>
+<ctryCd>
+</ctryCd>
+<phnNbr1>
+<phnNbr>
+</phnNbr>
+</phnNbr1>
+</CustAddrDtl>
+<ShpToAddrDtl>
+<name>Mark Hund</name>
+<addrLn>QA TEST ADDRESS</addrLn>
+<addrLn2>750 Builders Way</addrLn2>
+<addrLn3>
+</addrLn3>
+<city>Niagara Falls</city>
+<stateCd>NY</stateCd>
+<postCd>14304</postCd>
+<ctryCd>US</ctryCd>
+<phnNbr1>
+<phnNbr>7162360761</phnNbr>
+</phnNbr1>
+</ShpToAddrDtl>
+<StrAddrDtl>
+<strNbr>8119</strNbr>
+<name>Home Depot</name>
+</StrAddrDtl>
+<GiftMessage>
+<mess1>
+</mess1>
+<mess2>
+</mess2>
+<mess3>
+</mess3>
+</GiftMessage>
+</poHdr>
+<poDtl>
+<poLnNbr>1</poLnNbr>
+<merDptNbr>26</merDptNbr>
+<poLnQty>1.0</poLnQty>
+<uom>EA</uom>
+<poLnUnitCst>1.79</poLnUnitCst>
+<skuNbr>1000501800</skuNbr>
+<upc>046878533608</upc>
+<skuDesc>3/4 in. Slip x FHT PVC Hose Fitting</skuDesc>
+<prodNbr>100130381</prodNbr>
+<PartNbr>53360</PartNbr>
+<dfcCoreVendorNo>20353</dfcCoreVendorNo>
+<sellPkWt>0.80</sellPkWt>
+<ShpToAddrDtl>
+<name>Mark Hund</name>
+<addrLn>C/O THD Ship to Store #1287</addrLn>
+<addrLn2>750 Builders Way</addrLn2>
+<addrLn3>
+</addrLn3>
+<city>Niagara Falls</city>
+<stateCd>NY</stateCd>
+<postCd>14304</postCd>
+<ctryCd>US</ctryCd>
+<phnNbr1>
+<phnNbr>7162360761</phnNbr>
+</phnNbr1>
+</ShpToAddrDtl>
+<Item>
+<length>1.75</length>
+<width>1.375</width>
+<depth>1.375</depth>
+<dimUom>INCH</dimUom>
+<weight>0.05</weight>
+<wtUom>LBS</wtUom>
+<isHazmat>N</isHazmat>
+</Item>
+</poDtl>
+<poSummary>
+</poSummary>
+</po>
+</PO_850>

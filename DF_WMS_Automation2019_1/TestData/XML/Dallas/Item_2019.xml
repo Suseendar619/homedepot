@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?><tXML>
+<Header>
+        <Source>Core</Source>
+        <Action_Type>UPDATE</Action_Type>
+        <Reference_ID>1000692489_2023-04-17 00:00:00.221</Reference_ID>
+        <User_ID>WMBATCH</User_ID>
+        <Message_Type>Item</Message_Type>
+        <Company_ID>1001</Company_ID>
+        <Version>2019</Version>
+    </Header>
+    <Message>
+        <Item>
+            <ItemName>1000692489</ItemName>
+            <BusinessUnit>1001</BusinessUnit>
+            <Description>NAPLES 24 IN. W X 21 IN D VANITY CAB</Description>
+            <BaseStorageUOM>EA</BaseStorageUOM>
+            <ItemUpcGtin>1000692489</ItemUpcGtin>
+            <UnitWeight>75.0</UnitWeight>
+            <WeightUOM>LBS</WeightUOM>
+            <UnitVolume>28128.0</UnitVolume>
+            <VolumeUOM>CU INCH</VolumeUOM>
+            <UnitHeight>38.0</UnitHeight>
+            <UnitWidth>28.0</UnitWidth>
+            <UnitLength>25.98</UnitLength>
+            <DimensionUOM>INCH</DimensionUOM>
+            <QtyUOM>EA</QtyUOM>
+            <ColorDesc/>
+            <ItemBarCode>1000692489</ItemBarCode>
+            <StdBundlQty>1</StdBundlQty>
+            <IncrementalHeight>0.0</IncrementalHeight>
+            <IncrementalLength>0.0</IncrementalLength>
+            <IncrementalWidth>0.0</IncrementalWidth>
+            <MaxUnitsNested>0</MaxUnitsNested>
+            <ReferenceField1/>
+            <ReferenceField2/>
+            <ReferenceField3>074660009307</ReferenceField3>
+            <ReferenceField5/>
+            <ReferenceField7>0</ReferenceField7>
+            <ReferenceField8>NR</ReferenceField8>
+            <StatusCode>0</StatusCode>
+            <ClassificationCodes/>
+<ItemSupplierXrefList>
+                <ItemSupplierXref>
+                    <SupplierItemBarcode>001000692489</SupplierItemBarcode>
+                    <ScanQnty>1</ScanQnty>
+                    <ItemBarCode>1000692489</ItemBarCode>
+                    <MarkForDeletion>0</MarkForDeletion>
+                </ItemSupplierXref>
+                <ItemSupplierXref>
+                    <SupplierItemBarcode>0001000692489</SupplierItemBarcode>
+                    <ScanQnty>2</ScanQnty>
+                    <ItemBarCode>1000692489</ItemBarCode>
+                    <MarkForDeletion>0</MarkForDeletion>
+                </ItemSupplierXref>
+<ItemSupplierXref>
+                    <SupplierItemBarcode>00001000544233</SupplierItemBarcode>
+                    <ScanQnty>6</ScanQnty>
+                    <ItemBarCode>1000544233
+</ItemBarCode>
+
+<MarkForDeletion>0</MarkForDeletion>
+                </ItemSupplierXref>
+            </ItemSupplierXrefList>
+            <ItemFacilityWMSList>
+                <ItemFacilityWMS>
+                    <FacilityName>6705</FacilityName>
+                    <LPNPerTier>0</LPNPerTier>
+                    <TierPerPallet>0</TierPerPallet>
+                    <ExcessWaveNeedProcessType>3</ExcessWaveNeedProcessType>
+                    <MaxUnitsInDynamicActive>999</MaxUnitsInDynamicActive>
+                    <MiscNumeric1/>
+                    <MiscNumeric2/>
+                    <NumberOfDynActvPickPerItem>10</NumberOfDynActvPickPerItem>
+                    <AssignDynamicActivePickSite>1</AssignDynamicActivePickSite>
+                    <PickLocationAssignType>B2H</PickLocationAssignType>
+                    <PutawayType>BK1</PutawayType>
+                    <DefaultWaveProcess>5</DefaultWaveProcess>
+                    <AllocationType>LPN</AllocationType>
+                    <SlotMiscellaneous1/>
+                    <SlotMiscellaneous2/>
+                    <SlotMiscellaneous5>BK2</SlotMiscellaneous5>
+                    <MiscShortAlpha1/>
+                    <MiscShortAlpha2>SR</MiscShortAlpha2>
+                                        <MiscAlpha1>PJ                    </MiscAlpha1>
+
+                </ItemFacilityWMS>
+            </ItemFacilityWMSList>
+            <ItemPackageList>
+                <ItemPackage>
+                    <PkgUOM>EA</PkgUOM>
+                    <Weight>17.66</Weight>
+                    <Quantity>1</Quantity>
+                    <WeightUOM>LBS</WeightUOM>
+                    <UnitLength>24</UnitLength>
+                    <UnitHeight>22</UnitHeight>
+                    <UnitWidth>20</UnitWidth>
+                    <DimensionUOM>INCH</DimensionUOM>
+                    <UnitVolume>10560</UnitVolume>
+                    <VolumeUOM>CU INCH</VolumeUOM>
+                    <IsStandard>1</IsStandard>
+                    <BusinessPartnerId>19129</BusinessPartnerId>
+                    <MarkForDeletion>0</MarkForDeletion>
+                </ItemPackage>                <ItemPackage>
+                    <PkgUOM>PACKS</PkgUOM>
+                    <Weight>17.66</Weight>
+                    <Quantity>1</Quantity>
+                    <WeightUOM>LBS</WeightUOM>
+                    <UnitLength>24</UnitLength>
+                    <UnitHeight>22</UnitHeight>
+                    <UnitWidth>20</UnitWidth>
+                    <DimensionUOM>INCH</DimensionUOM>
+                    <UnitVolume>10560</UnitVolume>
+                    <VolumeUOM>CU INCH</VolumeUOM>
+                    <IsStandard>1</IsStandard>
+                    <BusinessPartnerId>19129</BusinessPartnerId>
+                    <MarkForDeletion>0</MarkForDeletion>
+                </ItemPackage>
+            </ItemPackageList>
+            <ItemWmos>
+                <UnitPrice>4</UnitPrice>
+                <MaxLPNQty>508</MaxLPNQty>
+                <CritclDim1>24</CritclDim1>
+                <CritclDim2>22</CritclDim2>
+                <CritclDim3>20</CritclDim3>
+                <VendorItemNbr>DWC106A1BPDD</VendorItemNbr>
+                <ConveyFlag>N</ConveyFlag>
+                <StoreDept>29</StoreDept>
+                <SplInstr1/>
+                <FreightClass>50.0</FreightClass>
+                <CCUnitToleranceValue>null</CCUnitToleranceValue>
+                <CCTolerancePercentage>null</CCTolerancePercentage>
+                <CCMonetaryToleranceValue>null</CCMonetaryToleranceValue>
+                <CCWeightToleranceValue>null</CCWeightToleranceValue>
+                <VendorMasterId>19129</VendorMasterId>
+            </ItemWmos>
+        </Item>
+    </Message>
+</tXML>

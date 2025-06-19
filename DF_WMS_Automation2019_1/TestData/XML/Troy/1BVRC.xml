@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><PO_850>
+<msgHdr>
+<docType>Purchase Order</docType>
+<origID>GERS</origID>
+<origType>ZZ</origType>
+<recipID>HDCOM</recipID>
+<recipType>ZZ</recipType>
+<strNbr>8119</strNbr>
+</msgHdr>
+<po>
+<poHdr>
+<locId>6707</locId>
+<byoNbr>25</byoNbr>
+<docTrcID>0016182933</docTrcID>
+<poNbr>16182933</poNbr>
+<custOrdNbr>QA16182933</custOrdNbr>
+<trnsPrpCd>00</trnsPrpCd>
+<ordTypCd>DR</ordTypCd>
+<shipToType>BOSS</shipToType>
+<poCrtDt>2019-05-14T10:00:00</poCrtDt>
+<currCd>USD</currCd>
+<exchRt>1</exchRt>
+<mVndrNm>
+</mVndrNm>
+<mVndrNbr>6707</mVndrNbr>
+<shpByDt>2018-08-03</shpByDt>
+<shpReqDt>2018-08-03</shpReqDt>
+<emailAdr>
+</emailAdr>
+<carrierDtl>
+<trnsMde>CG</trnsMde>
+<carrQLCd>
+</carrQLCd>
+<SCAC>
+</SCAC>
+</carrierDtl>
+<CustAddrDtl>
+<name>salvatore benigno</name>
+<addrLn>
+</addrLn>
+<addrLn2>
+</addrLn2>
+<addrLn3>
+</addrLn3>
+<city>
+</city>
+<stateCd>
+</stateCd>
+<postCd>
+</postCd>
+<ctryCd>
+</ctryCd>
+<phnNbr1>
+<phnNbr>
+</phnNbr>
+</phnNbr1>
+</CustAddrDtl>
+<ShpToAddrDtl>
+<name>salvatore benigno</name>
+<addrLn>C/O THD Ship to Store #1249</addrLn>
+<addrLn2>2501 Forest Ave</addrLn2>
+<addrLn3>
+</addrLn3>
+<city>Staten Island</city>
+<stateCd>NY</stateCd>
+<postCd>10303</postCd>
+<ctryCd>US</ctryCd>
+<phnNbr1>
+<phnNbr>7182735069</phnNbr>
+</phnNbr1>
+</ShpToAddrDtl>
+<StrAddrDtl>
+<strNbr>1249</strNbr>
+<name>Home Depot</name>
+</StrAddrDtl>
+<GiftMessage>
+<mess1>
+</mess1>
+<mess2>
+</mess2>
+<mess3>
+</mess3>
+</GiftMessage>
+</poHdr>
+<poDtl>
+<poLnNbr>1</poLnNbr>
+<merDptNbr>29</merDptNbr>
+<poLnQty>1.0</poLnQty>
+<uom>EA</uom>
+<poLnUnitCst>833.00</poLnUnitCst>
+<skuNbr>1001215383</skuNbr>
+<upc>815324010525</upc>
+<skuDesc>Enigma??X 44 in. to 48 in. x 76 in. Frameless Sliding Shower Door in Brushed Stainless Steel</skuDesc>
+<prodNbr>204371080</prodNbr>
+<PartNbr>D61487610-07</PartNbr>
+<dfcCoreVendorNo>17637</dfcCoreVendorNo>
+<sellPkWt>3536.00</sellPkWt>
+<ShpToAddrDtl>
+<name>salvatore benigno</name>
+<addrLn>C/O THD Ship to Store #1249</addrLn>
+<addrLn2>2501 Forest Ave</addrLn2>
+<addrLn3>
+</addrLn3>
+<city>Staten Island</city>
+<stateCd>NY</stateCd>
+<postCd>10303</postCd>
+<ctryCd>US</ctryCd>
+<phnNbr1>
+<phnNbr>7182735069</phnNbr>
+</phnNbr1>
+</ShpToAddrDtl>
+<Item>
+<length>60.00</length>
+<width>27.00</width>
+<depth>20.00</depth>
+<dimUom>INCH</dimUom>
+<weight>221.00</weight>
+<wtUom>LBS</wtUom>
+<isHazmat>N</isHazmat>
+</Item>
+</poDtl>
+<poSummary>
+</poSummary>
+</po>
+</PO_850>

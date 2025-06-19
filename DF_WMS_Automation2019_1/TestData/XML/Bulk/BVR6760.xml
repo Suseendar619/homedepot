@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><PO_850>
+<msgHdr>
+<docType>Purchase Order</docType>
+<origID>GERS</origID>
+<origType>ZZ</origType>
+<recipID>HDCOM</recipID>
+<recipType>ZZ</recipType>
+<strNbr>8119</strNbr>
+</msgHdr>
+<po>
+<poHdr>
+<locId>6760</locId>
+<byoNbr>25</byoNbr>
+<docTrcID>0016182370</docTrcID>
+<poNbr>16182370</poNbr>
+<custOrdNbr>QA16182370</custOrdNbr>
+<trnsPrpCd>00</trnsPrpCd>
+<ordTypCd>DR</ordTypCd>
+<shipToType>BOSS</shipToType>
+<poCrtDt>2019-01-18T10:00:00</poCrtDt>
+<currCd>USD</currCd>
+<exchRt>1</exchRt>
+<mVndrNm>
+</mVndrNm>
+<mVndrNbr>6760</mVndrNbr>
+<shpByDt>2019-01-15</shpByDt>
+<shpReqDt>2019-01-15</shpReqDt>
+<emailAdr>
+</emailAdr>
+<carrierDtl>
+<trnsMde>LA</trnsMde>
+<carrQLCd>
+</carrQLCd>
+<SCAC>
+</SCAC>
+</carrierDtl>
+<CustAddrDtl>
+<name>Timothy Burns</name>
+<addrLn>
+</addrLn>
+<addrLn2>
+</addrLn2>
+<addrLn3>
+</addrLn3>
+<city>
+</city>
+<stateCd>
+</stateCd>
+<postCd>
+</postCd>
+<ctryCd>
+</ctryCd>
+<phnNbr1>
+<phnNbr>
+</phnNbr>
+</phnNbr1>
+</CustAddrDtl>
+<ShpToAddrDtl>
+<name>Timothy Burns</name>
+<addrLn>C/O THD Ship to Store #4128</addrLn>
+<addrLn2>3470 North Road</addrLn2>
+<addrLn3>
+</addrLn3>
+<city>Poughkeepsie</city>
+<stateCd>NY</stateCd>
+<postCd>12601</postCd>
+<ctryCd>US</ctryCd>
+<phnNbr1>
+<phnNbr>8454850420</phnNbr>
+</phnNbr1>
+</ShpToAddrDtl>
+<StrAddrDtl>
+<strNbr>4128</strNbr>
+<name>Home Depot</name>
+</StrAddrDtl>
+<GiftMessage>
+<mess1>
+</mess1>
+<mess2>
+</mess2>
+<mess3>
+</mess3>
+</GiftMessage>
+</poHdr>
+<poDtl>
+<poLnNbr>512</poLnNbr>
+<merDptNbr>29</merDptNbr>
+<poLnQty>1.0</poLnQty>
+<uom>EA</uom>
+<poLnUnitCst>105.00</poLnUnitCst>
+<skuNbr>1000250172</skuNbr>
+<upc>518720000090</upc>
+<skuDesc>Shaker Assembled 30x18x12 in. Wall Bridge Kitchen Cabinet in Satin White</skuDesc>
+<prodNbr>306550623</prodNbr>
+<PartNbr>KWX3018-SSW</PartNbr>
+<dfcCoreVendorNo>18070</dfcCoreVendorNo>
+<sellPkWt>544.00</sellPkWt>
+<ShpToAddrDtl>
+<name>Timothy Burns</name>
+<addrLn>C/O THD Ship to Store #4128</addrLn>
+<addrLn2>3470 North Road</addrLn2>
+<addrLn3>
+</addrLn3>
+<city>Poughkeepsie</city>
+<stateCd>NY</stateCd>
+<postCd>12601</postCd>
+<ctryCd>US</ctryCd>
+<phnNbr1>
+<phnNbr>8454850420</phnNbr>
+</phnNbr1>
+</ShpToAddrDtl>
+<Item>
+<length>13.63</length>
+<width>18.25</width>
+<depth>30.75</depth>
+<dimUom>INCH</dimUom>
+<weight>34.00</weight>
+<wtUom>LBS</wtUom>
+<isHazmat>N</isHazmat>
+</Item>
+</poDtl>
+<poSummary>
+</poSummary>
+</po>
+</PO_850>

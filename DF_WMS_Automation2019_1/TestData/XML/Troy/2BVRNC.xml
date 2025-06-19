@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><PO_850>
+<msgHdr>
+<docType>Purchase Order</docType>
+<origID>GERS</origID>
+<origType>ZZ</origType>
+<recipID>HDCOM</recipID>
+<recipType>ZZ</recipType>
+<strNbr>8119</strNbr>
+</msgHdr>
+<po>
+<poHdr>
+<locId>6707</locId>
+<byoNbr>25</byoNbr>
+<docTrcID>0016182831</docTrcID>
+<poNbr>16182831</poNbr>
+<custOrdNbr>QA16182831</custOrdNbr>
+<trnsPrpCd>00</trnsPrpCd>
+<ordTypCd>DR</ordTypCd>
+<shipToType>BOSS</shipToType>
+<poCrtDt>2019-04-10T10:00:00</poCrtDt>
+<currCd>USD</currCd>
+<exchRt>1</exchRt>
+<mVndrNm>
+</mVndrNm>
+<mVndrNbr>6707</mVndrNbr>
+<shpByDt>2018-08-03</shpByDt>
+<shpReqDt>2018-08-03</shpReqDt>
+<emailAdr>
+</emailAdr>
+<carrierDtl>
+<trnsMde>CG</trnsMde>
+<carrQLCd>
+</carrQLCd>
+<SCAC>
+</SCAC>
+</carrierDtl>
+<CustAddrDtl>
+<name>Kelly Millett</name>
+<addrLn>
+</addrLn>
+<addrLn2>
+</addrLn2>
+<addrLn3>
+</addrLn3>
+<city>
+</city>
+<stateCd>
+</stateCd>
+<postCd>
+</postCd>
+<ctryCd>
+</ctryCd>
+<phnNbr1>
+<phnNbr>
+</phnNbr>
+</phnNbr1>
+</CustAddrDtl>
+<ShpToAddrDtl>
+<name>Kelly Millett</name>
+<addrLn>C/O THD Ship to Store #1259</addrLn>
+<addrLn2>579 TroySchenectady Rd</addrLn2>
+<addrLn3>
+</addrLn3>
+<city>Latham</city>
+<stateCd>NY</stateCd>
+<postCd>12110</postCd>
+<ctryCd>US</ctryCd>
+<phnNbr1>
+<phnNbr>5187829867</phnNbr>
+</phnNbr1>
+</ShpToAddrDtl>
+<StrAddrDtl>
+<strNbr>1259</strNbr>
+<name>Home Depot</name>
+</StrAddrDtl>
+<GiftMessage>
+<mess1>
+</mess1>
+<mess2>
+</mess2>
+<mess3>
+</mess3>
+</GiftMessage>
+</poHdr>
+<poDtl>
+<poLnNbr>1</poLnNbr>
+<merDptNbr>29</merDptNbr>
+<poLnQty>2.0</poLnQty>
+<uom>EA</uom>
+<poLnUnitCst>583.05</poLnUnitCst>
+<skuNbr>1000805333</skuNbr>
+<upc>791556037038</upc>
+<skuDesc>Ovation 48 in. x 72 in. Semi??Frameless Sliding Shower Door in Satin Nickel and Clear Glass</skuDesc>
+<prodNbr>203978525</prodNbr>
+<PartNbr>AM00548.400.295</PartNbr>
+<dfcCoreVendorNo>18816</dfcCoreVendorNo>
+<sellPkWt>1564.80</sellPkWt>
+<ShpToAddrDtl>
+<name>Kelly Millett</name>
+<addrLn>C/O THD Ship to Store #1259</addrLn>
+<addrLn2>579 TroySchenectady Rd</addrLn2>
+<addrLn3>
+</addrLn3>
+<city>Latham</city>
+<stateCd>NY</stateCd>
+<postCd>12110</postCd>
+<ctryCd>US</ctryCd>
+<phnNbr1>
+<phnNbr>5187829867</phnNbr>
+</phnNbr1>
+</ShpToAddrDtl>
+<Item>
+<length>25.60</length>
+<width>5.80</width>
+<depth>74.40</depth>
+<dimUom>INCH</dimUom>
+<weight>97.80</weight>
+<wtUom>LBS</wtUom>
+<isHazmat>N</isHazmat>
+</Item>
+</poDtl>
+<poSummary>
+</poSummary>
+</po>
+</PO_850>

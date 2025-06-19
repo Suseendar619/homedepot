@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?><PO_850>
+<msgHdr>
+<docType>Purchase Order</docType>
+<origID>GERS</origID>
+<origType>ZZ</origType>
+<recipID>HDCOM</recipID>
+<recipType>ZZ</recipType>
+<strNbr>8119</strNbr>
+</msgHdr>
+<po>
+<poHdr>
+<locId>6707</locId>
+<byoNbr>25</byoNbr>
+<docTrcID>0016182754</docTrcID>
+<poNbr>16182754</poNbr>
+<custOrdNbr>QA16182754</custOrdNbr>
+<trnsPrpCd>00</trnsPrpCd>
+<ordTypCd>DR</ordTypCd>
+<shipToType>BOSS</shipToType>
+<poCrtDt>2019-04-05T10:00:00</poCrtDt>
+<currCd>USD</currCd>
+<exchRt>1</exchRt>
+<mVndrNm>
+</mVndrNm>
+<mVndrNbr>6707</mVndrNbr>
+<shpByDt>2018-07-02</shpByDt>
+<shpReqDt>2018-07-02</shpReqDt>
+<emailAdr>
+</emailAdr>
+<carrierDtl>
+<trnsMde>CG</trnsMde>
+<carrQLCd>
+</carrQLCd>
+<SCAC>
+</SCAC>
+</carrierDtl>
+<CustAddrDtl>
+<name>DAN FOGEL</name>
+<addrLn>
+</addrLn>
+<addrLn2>
+</addrLn2>
+<addrLn3>
+</addrLn3>
+<city>
+</city>
+<stateCd>
+</stateCd>
+<postCd>
+</postCd>
+<ctryCd>
+</ctryCd>
+<phnNbr1>
+<phnNbr>
+</phnNbr>
+</phnNbr1>
+</CustAddrDtl>
+<ShpToAddrDtl>
+<name>DAN FOGEL</name>
+<addrLn>C/O THD Ship to Store #0458</addrLn>
+<addrLn2>725 W Warner Rd</addrLn2>
+<addrLn3>
+</addrLn3>
+<city>Tempe</city>
+<stateCd>AZ</stateCd>
+<postCd>85284</postCd>
+<ctryCd>US</ctryCd>
+<phnNbr1>
+<phnNbr>4804969700</phnNbr>
+</phnNbr1>
+</ShpToAddrDtl>
+<StrAddrDtl>
+<strNbr>0458</strNbr>
+<name>Home Depot</name>
+</StrAddrDtl>
+<GiftMessage>
+<mess1>
+</mess1>
+<mess2>
+</mess2>
+<mess3>
+</mess3>
+</GiftMessage>
+</poHdr>
+<poDtl>
+<poLnNbr>1</poLnNbr>
+<merDptNbr>29</merDptNbr>
+<poLnQty>2.0</poLnQty>
+<uom>EA</uom>
+<poLnUnitCst>952.02</poLnUnitCst>
+<skuNbr>1002250911</skuNbr>
+<upc>671037183211</upc>
+<skuDesc>Chesapeake 61 in. W x 22.5 in. D Solid Surface Double Sink Vanity Top in Gray Granite</skuDesc>
+<prodNbr>202508622</prodNbr>
+<PartNbr>CH022612B.042</PartNbr>
+<dfcCoreVendorNo>18841</dfcCoreVendorNo>
+<sellPkWt>816.00</sellPkWt>
+<ShpToAddrDtl>
+<name>DAN FOGEL</name>
+<addrLn>C/O THD Ship to Store #0458</addrLn>
+<addrLn2>725 W Warner Rd</addrLn2>
+<addrLn3>
+</addrLn3>
+<city>Tempe</city>
+<stateCd>AZ</stateCd>
+<postCd>85284</postCd>
+<ctryCd>US</ctryCd>
+<phnNbr1>
+<phnNbr>4804969700</phnNbr>
+</phnNbr1>
+</ShpToAddrDtl>
+<Item>
+<length>26.00</length>
+<width>64.00</width>
+<depth>14.00</depth>
+<dimUom>INCH</dimUom>
+<weight>51.00</weight>
+<wtUom>LBS</wtUom>
+<isHazmat>N</isHazmat>
+</Item>
+</poDtl>
+<poDtl>
+<poLnNbr>2</poLnNbr>
+<merDptNbr>29</merDptNbr>
+<poLnQty>2.0</poLnQty>
+<uom>EA</uom>
+<poLnUnitCst>952.02</poLnUnitCst>
+<skuNbr>1002545551</skuNbr>
+<upc>671037183211</upc>
+<skuDesc>Chesapeake 61 in. W x 22.5 in. D Solid Surface Double Sink Vanity Top in Gray Granite</skuDesc>
+<prodNbr>202508622</prodNbr>
+<PartNbr>CH022612B.042</PartNbr>
+<dfcCoreVendorNo>18841</dfcCoreVendorNo>
+<sellPkWt>816.00</sellPkWt>
+<ShpToAddrDtl>
+<name>DAN FOGEL</name>
+<addrLn>C/O THD Ship to Store #0458</addrLn>
+<addrLn2>725 W Warner Rd</addrLn2>
+<addrLn3>
+</addrLn3>
+<city>Tempe</city>
+<stateCd>AZ</stateCd>
+<postCd>85284</postCd>
+<ctryCd>US</ctryCd>
+<phnNbr1>
+<phnNbr>4804969700</phnNbr>
+</phnNbr1>
+</ShpToAddrDtl>
+<Item>
+<length>26.00</length>
+<width>64.00</width>
+<depth>14.00</depth>
+<dimUom>INCH</dimUom>
+<weight>51.00</weight>
+<wtUom>LBS</wtUom>
+<isHazmat>N</isHazmat>
+</Item>
+</poDtl>
+<poSummary>
+</poSummary>
+</po>
+</PO_850>

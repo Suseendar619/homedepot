@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><tXML>
+<Header>
+<Source>AutoQA</Source>
+<Action_Type>Create</Action_Type>
+<Message_Type>PurchaseOrder</Message_Type>
+<Company_ID>1001</Company_ID>
+<Msg_Locale>English(United States)</Msg_Locale>
+</Header>
+<Message>
+<Order>
+<OrderId>AUTO58490121121216</OrderId>
+<ExtPurchaseOrderId>AUTO58490121121216</ExtPurchaseOrderId>
+<IsHazmat>false</IsHazmat>
+<IsCancelled>false</IsCancelled>
+<IsDirectAllowed>true</IsDirectAllowed>
+<PickupStart>12/13/16 17:55:50</PickupStart>
+<PickupEnd>12/15/16 17:57:50</PickupEnd>
+<DeliveryStart>12/14/16 17:56:50</DeliveryStart>
+<DeliveryEnd>12/18/16 18:00:50</DeliveryEnd>
+<DestinationFacilityAliasId>0121</DestinationFacilityAliasId>
+<DestinationDockId>1</DestinationDockId>
+<OriginFacilityAliasId>49522IL001</OriginFacilityAliasId>
+<ProtectionLevelCode>PL</ProtectionLevelCode>
+<ProductClassCode>21</ProductClassCode>
+<BillingMethodCode>1</BillingMethodCode>
+<TransportationResponsibilityCode>SHP</TransportationResponsibilityCode>
+<PoAutoCreateMethodCode>20</PoAutoCreateMethodCode>
+<DeliveryRequirementCode>NEI</DeliveryRequirementCode>
+<BusinessPartnerCode>49522</BusinessPartnerCode>
+<ProcessInfo>
+<MovementOption>4</MovementOption>
+</ProcessInfo>
+<CustomFieldList>
+<CustomField>
+<Name>ACTUAL_PO_CUBE</Name>
+<Value>1000.70</Value>
+</CustomField>
+<CustomField>
+<Name>CRT_TS</Name>
+<Value>2016-08-09 15:00:25.595</Value>
+</CustomField>
+<CustomField>
+<Name>MVENDOR</Name>
+<Value/>
+</CustomField>
+<CustomField>
+<Name>POTYPE</Name>
+<Value>290</Value>
+</CustomField>
+<CustomField>
+<Name>PO_DIRECTION</Name>
+<Value>IB</Value>
+</CustomField>
+<CustomField>
+<Name>D_TYP_CD</Name>
+<Value>DTS</Value>
+</CustomField>
+</CustomFieldList>
+<LineItem>
+<LineItemId>0001</LineItemId>
+<ProductClassCode>21</ProductClassCode>
+<CommodityClassCode>70</CommodityClassCode>
+<ProtectionLevelCode>PL</ProtectionLevelCode>
+<IsReadyToShip>true</IsReadyToShip>
+<IsHazmat>false</IsHazmat>
+<Quantity>
+<OrderQty>1008</OrderQty>
+<QtyUOM>EA</QtyUOM>
+</Quantity>
+<Weight>
+<PlannedWeight>1451.52</PlannedWeight>
+<WeightUOM>LB</WeightUOM>
+</Weight>
+<Volume>
+<PlannedVolume>85.39</PlannedVolume>
+<VolumeUOM>FT3</VolumeUOM>
+</Volume>
+</LineItem>
+</Order>
+</Message>
+</tXML>

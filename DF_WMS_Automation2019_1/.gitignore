@@ -1,0 +1,7 @@
+ErrorLogs/
+Reports/
+target/
+RunManagerOld.xls
+LastRun_FailedTC.xls
+log/
+ReportFolder.groovy

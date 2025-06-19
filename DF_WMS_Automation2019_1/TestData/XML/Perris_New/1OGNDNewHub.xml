@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?><PO_850>
+<msgHdr>
+<docType>Purchase Order</docType>
+<origID>GERS</origID>
+<origType>ZZ</origType>
+<recipID>HDCOM</recipID>
+<recipType>ZZ</recipType>
+<strNbr>8119</strNbr>
+</msgHdr>
+<po>
+<poHdr>
+<locId>6007</locId>
+<byoNbr>25</byoNbr>
+<docTrcID>0016182638</docTrcID>
+<poNbr>16182638</poNbr>
+<custOrdNbr>QA16182638</custOrdNbr>
+<trnsPrpCd>00</trnsPrpCd>
+<ordTypCd>DR</ordTypCd>
+<shipToType>STH</shipToType>
+<poCrtDt>2019-03-22T10:00:00</poCrtDt>
+<currCd>USD</currCd>
+<exchRt>1</exchRt>
+<mVndrNm>
+</mVndrNm>
+<mVndrNbr>6007</mVndrNbr>
+<emailAdr>
+</emailAdr>
+<carrierDtl>
+<trnsMde>GA</trnsMde>
+<carrQLCd>
+</carrQLCd>
+<SCAC>
+</SCAC>
+</carrierDtl>
+<CustAddrDtl>
+<name>QA Ontrac Test PO</name>
+<addrLn>
+</addrLn>
+<addrLn2>
+</addrLn2>
+<addrLn3>
+</addrLn3>
+<city>
+</city>
+<stateCd>
+</stateCd>
+<postCd>
+</postCd>
+<ctryCd>
+</ctryCd>
+<phnNbr1>
+<phnNbr>
+</phnNbr>
+</phnNbr1>
+</CustAddrDtl>
+<ShpToAddrDtl>
+<name>QA Ontrac Test PO</name>
+<addrLn>C/O THD Ship to Store #6968</addrLn>
+<addrLn2>100 N 3rd St</addrLn2>
+<addrLn3/>
+<city>Phoenix</city>
+<stateCd>AZ</stateCd>
+<postCd>85001</postCd>
+<ctryCd>US</ctryCd>
+<phnNbr1>
+<phnNbr>5053103323</phnNbr>
+</phnNbr1>
+</ShpToAddrDtl>
+<StrAddrDtl>
+<strNbr>8119</strNbr>
+<name>Home Depot</name>
+</StrAddrDtl>
+<GiftMessage>
+<mess1>
+</mess1>
+<mess2>
+</mess2>
+<mess3>
+</mess3>
+</GiftMessage>
+</poHdr>
+<poDtl>
+<poLnNbr>1</poLnNbr>
+<merDptNbr>26</merDptNbr>
+<poLnQty>1.0</poLnQty>
+<uom>EA</uom>
+<poLnUnitCst>115.00</poLnUnitCst>
+<skuNbr>1000632926</skuNbr>
+<upc>027418675095</upc>
+<skuDesc>Com??Pak Plus 9 in. x 12 in. 1500??Watt 120??Volt Fan??Forced In??Wall Electric Heater in White</skuDesc>
+<prodNbr>100569364</prodNbr>
+<PartNbr>67509</PartNbr>
+<dfcCoreVendorNo>17807</dfcCoreVendorNo>
+<sellPkWt>108.00</sellPkWt>
+<ShpToAddrDtl>
+<name>QA Ontrac Test PO</name>
+<addrLn>C/O THD Ship to Store #6968</addrLn>
+<addrLn2>100 N 3rd St</addrLn2>
+<addrLn3/>
+<city>Phoenix</city>
+<stateCd>AZ</stateCd>
+<postCd>85001</postCd>
+<ctryCd>US</ctryCd>
+<phnNbr1>
+<phnNbr>5053103323</phnNbr>
+</phnNbr1>
+</ShpToAddrDtl>
+<Item>
+<length>14.25</length>
+<width>9.50</width>
+<depth>6.00</depth>
+<dimUom>INCH</dimUom>
+<weight>6.75</weight>
+<wtUom>LBS</wtUom>
+<isHazmat>N</isHazmat>
+</Item>
+<comboType>
+</comboType>
+<vasInstruction>
+</vasInstruction>
+</poDtl>
+<poDtl>
+<poLnNbr>2</poLnNbr>
+<merDptNbr>26</merDptNbr>
+<poLnQty>1.0</poLnQty>
+<uom>EA</uom>
+<poLnUnitCst>18.53</poLnUnitCst>
+<skuNbr>1000068412</skuNbr>
+<upc>027418149107</upc>
+<skuDesc>Single??Pole Electric Baseboard??Mount Mechanical Thermostat in Almond</skuDesc>
+<prodNbr>202502062</prodNbr>
+<PartNbr>14910</PartNbr>
+<dfcCoreVendorNo>17807</dfcCoreVendorNo>
+<sellPkWt>8.00</sellPkWt>
+<ShpToAddrDtl>
+<name>QA Ontrac Test PO</name>
+<addrLn>C/O THD Ship to Store #6968</addrLn>
+<addrLn2>100 N 3rd St</addrLn2>
+<addrLn3/>
+<city>Phoenix</city>
+<stateCd>AZ</stateCd>
+<postCd>85001</postCd>
+<ctryCd>US</ctryCd>
+<phnNbr1>
+<phnNbr>5053103323</phnNbr>
+</phnNbr1>
+</ShpToAddrDtl>
+<Item>
+<length>2.25</length>
+<width>7.00</width>
+<depth>7.50</depth>
+<dimUom>INCH</dimUom>
+<weight>0.50</weight>
+<wtUom>LBS</wtUom>
+<isHazmat>N</isHazmat>
+</Item>
+<comboType>
+</comboType>
+<vasInstruction>
+</vasInstruction>
+</poDtl>
+<poSummary>
+</poSummary>
+</po>
+</PO_850>

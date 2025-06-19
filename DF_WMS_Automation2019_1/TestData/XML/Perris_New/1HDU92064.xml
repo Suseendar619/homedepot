@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PO_850>
+<msgHdr>
+<docType>Purchase Order</docType>
+<origID>GERS</origID>
+<origType>ZZ</origType>
+<recipID>HDCOM</recipID>
+<recipType>ZZ</recipType>
+<strNbr>9061</strNbr>
+</msgHdr>
+<po>
+<poHdr>
+<locId>6007</locId>
+<byoNbr>25</byoNbr>
+<docTrcID>0008161820</docTrcID>
+<poNbr>08161820</poNbr>
+<custOrdNbr>W108161820</custOrdNbr>
+<trnsPrpCd>00</trnsPrpCd>
+<ordTypCd>DR</ordTypCd>
+<shipToType>STH</shipToType>
+<poCrtDt>2018-08-16T06:00:00Z</poCrtDt>
+<currCd>USD</currCd>
+<exchRt>1</exchRt>
+<mVndrNm/>
+<mVndrNbr>6007</mVndrNbr>
+<shpByDt>2018-08-18</shpByDt>
+<shpReqDt>2018-08-18</shpReqDt>
+<emailAdr/>
+<carrierDtl>
+<trnsMde>ET</trnsMde>
+<carrQLCd/>
+<SCAC/>
+</carrierDtl>
+<CustAddrDtl>
+<name>QA Test HDU</name>
+<addrLn/>
+<addrLn2/>
+<addrLn3/>
+<city/>
+<stateCd/>
+<postCd/>
+<ctryCd/>
+<phnNbr1>
+<phnNbr/>
+</phnNbr1>
+</CustAddrDtl>
+<ShpToAddrDtl>
+<name>QA Test HDU</name>
+<addrLn>Twin Peaks Trail</addrLn>
+<addrLn2/>
+<addrLn3/>
+<city>Poway</city>
+<stateCd>CA</stateCd>
+<postCd>92064</postCd>
+<ctryCd>US</ctryCd>
+<phnNbr1>
+<phnNbr>7676766767</phnNbr>
+</phnNbr1>
+</ShpToAddrDtl>
+<StrAddrDtl>
+<strNbr></strNbr>
+<name>Home Depot</name>
+</StrAddrDtl>
+<GiftMessage>
+<mess1/>
+<mess2/>
+<mess3/>
+</GiftMessage>
+</poHdr>
+<poDtl>
+<poLnNbr>1</poLnNbr>
+<poLnQty>1.0</poLnQty>
+<uom>EA</uom>
+<poLnUnitCst>27.99</poLnUnitCst>
+<skuNbr>1002544824</skuNbr>
+<upc>710631918444</upc>
+<skuDesc>1 1/2" ALL??IN?? ONE DRAIN KIT FOR DOUBLE KITCHEN SINKS</skuDesc>
+<prodNbr>300069166</prodNbr>
+<PartNbr>PCT-101JD</PartNbr>
+<dfcCoreVendorNo>16617</dfcCoreVendorNo>
+<sellPkWt>27.20</sellPkWt>
+<ShpToAddrDtl>
+<name>QA Test HDU</name>
+<addrLn>Twin Peaks Trail</addrLn>
+<addrLn2/>
+<addrLn3/>
+<city>Poway</city>
+<stateCd>CA</stateCd>
+<postCd>92064</postCd>
+<ctryCd>US</ctryCd>
+<phnNbr1>
+<phnNbr>2674371641</phnNbr>
+</phnNbr1>
+</ShpToAddrDtl>
+<Item>
+<length>2.80</length>
+<width>8.30</width>
+<depth>22.80</depth>
+<dimUom>INCH</dimUom>
+<weight>1.70</weight>
+<wtUom>LBS</wtUom>
+<isHazmat>N</isHazmat>
+</Item>
+</poDtl>
+<poSummary/>
+</po>
+</PO_850>

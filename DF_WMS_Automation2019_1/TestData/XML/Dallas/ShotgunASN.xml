@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><tXML>
+<Header>
+<Source>6707 Manhattan Associates</Source>
+<Action_Type>UPDATE</Action_Type>
+<Reference_ID>616a6a4a-e76b-47fe-b470-76050b48df7d</Reference_ID>
+<Message_Type>ASN</Message_Type>
+<Company_ID>1001</Company_ID>
+<Version>2012</Version>
+</Header>
+<Message>
+<ASN>
+<ASNID>S000040232</ASNID>
+<ASNType>20</ASNType>
+<ASNStatus>20</ASNStatus>
+<BusinessUnit>1001</BusinessUnit>
+<OriginFacilityAliasID>6707</OriginFacilityAliasID>
+<DestinationFacilityAliasID>5823</DestinationFacilityAliasID>
+<ActualShippedDTTM>07/07/2020 17:06:15</ActualShippedDTTM>
+<DeliveryStart>07/08/2020 17:06:15</DeliveryStart>
+<DeliveryEnd>07/09/2020 17:06:15</DeliveryEnd>
+<BillOfLadingNumber>52581186630703170</BillOfLadingNumber>
+<PRONumber>14252839320</PRONumber>
+<RefField1>SG</RefField1>
+<OriginType>W</OriginType>
+<DestinationType>W</DestinationType>
+<IsCancelled>0</IsCancelled>
+<TrailerNbr>T04023255</TrailerNbr>
+<TotalWeight>0.12</TotalWeight>
+<TotalWeightUOM>LBS</TotalWeightUOM>
+<Volume>29.678</Volume>
+<VolumeUOM>CU INCH</VolumeUOM>
+<SealNumbers>
+<SealNumber>SEAL040232</SealNumber>
+</SealNumbers>
+<ReferenceField1>SG</ReferenceField1>
+<LPN>
+<LPNID>DBH000040232</LPNID>
+<BusinessUnit>1001</BusinessUnit>
+<LPNType>LPN</LPNType>
+<LPNStatusDate>07/07/20 12:06</LPNStatusDate>
+<LPNFacilityStatus>In-Transit</LPNFacilityStatus>
+<InboundOutboundIndicator>I</InboundOutboundIndicator>
+<OriginFacilityAliasID>6707</OriginFacilityAliasID>
+<DestinationFacilityAliasID>5823</DestinationFacilityAliasID>
+<ShipVia>5023</ShipVia>
+<PalletID>
+</PalletID>
+<InstructionCode2>SG</InstructionCode2>
+<ActualWeight>0.06</ActualWeight>
+<WeightUOM>LBS</WeightUOM>
+<ActualVolume>14.839</ActualVolume>
+<VolumeUOM>CU INCH</VolumeUOM>
+<CrossdockOrderId>0402320R</CrossdockOrderId>
+<LPNDetail>
+<ItemName>1004268616</ItemName>
+<DistributionOrderLineItemID>501</DistributionOrderLineItemID>
+<ItemSequenceNbr>1</ItemSequenceNbr>
+<LPNDetailQuantity>
+<Quantity>1</Quantity>
+<QuantityUOM>EA</QuantityUOM>
+<ShippedAsnQuantity>1</ShippedAsnQuantity>
+<OriginalQuantity>1</OriginalQuantity>
+</LPNDetailQuantity>
+</LPNDetail>
+</LPN>
+</ASN>
+</Message>
+</tXML>

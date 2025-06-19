@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><PO_850>
+<msgHdr>
+<docType>Purchase Order</docType>
+<origID>GERS</origID>
+<origType>ZZ</origType>
+<recipID>HDCOM</recipID>
+<recipType>ZZ</recipType>
+<strNbr>8119</strNbr>
+</msgHdr>
+<po>
+<poHdr>
+<locId>6707</locId>
+<byoNbr>25</byoNbr>
+<docTrcID>0016182303</docTrcID>
+<poNbr>16182303</poNbr>
+<custOrdNbr>QA16182303</custOrdNbr>
+<trnsPrpCd>00</trnsPrpCd>
+<ordTypCd>DR</ordTypCd>
+<shipToType>BOSS</shipToType>
+<poCrtDt>2019-01-11T10:00:00</poCrtDt>
+<currCd>USD</currCd>
+<exchRt>1</exchRt>
+<mVndrNm>
+</mVndrNm>
+<mVndrNbr>6707</mVndrNbr>
+<shpByDt>2018-07-02</shpByDt>
+<shpReqDt>2018-07-02</shpReqDt>
+<emailAdr>
+</emailAdr>
+<carrierDtl>
+<trnsMde>CG</trnsMde>
+<carrQLCd>
+</carrQLCd>
+<SCAC>
+</SCAC>
+</carrierDtl>
+<CustAddrDtl>
+<name>Gilbert Butler</name>
+<addrLn>
+</addrLn>
+<addrLn2>
+</addrLn2>
+<addrLn3>
+</addrLn3>
+<city>
+</city>
+<stateCd>
+</stateCd>
+<postCd>
+</postCd>
+<ctryCd>
+</ctryCd>
+<phnNbr1>
+<phnNbr>
+</phnNbr>
+</phnNbr1>
+</CustAddrDtl>
+<ShpToAddrDtl>
+<name>Gilbert Butler</name>
+<addrLn>C/O THD Ship to Store #0473</addrLn>
+<addrLn2>425 S Val Vista Dr</addrLn2>
+<addrLn3>
+</addrLn3>
+<city>Mesa</city>
+<stateCd>AZ</stateCd>
+<postCd>85204</postCd>
+<ctryCd>US</ctryCd>
+<phnNbr1>
+<phnNbr>4803960227</phnNbr>
+</phnNbr1>
+</ShpToAddrDtl>
+<StrAddrDtl>
+<strNbr>0473</strNbr>
+<name>Home Depot</name>
+</StrAddrDtl>
+<GiftMessage>
+<mess1>
+</mess1>
+<mess2>
+</mess2>
+<mess3>
+</mess3>
+</GiftMessage>
+</poHdr>
+<poDtl>
+<poLnNbr>1</poLnNbr>
+<merDptNbr>29</merDptNbr>
+<poLnQty>1.0</poLnQty>
+<uom>EA</uom>
+<poLnUnitCst>378.43</poLnUnitCst>
+<skuNbr>1003062440</skuNbr>
+<upc>885612408341</upc>
+<skuDesc>Revel 36 in. W x 70 in. H Frameless Pivot Shower Door in Anodized Dark Bronze with Handle</skuDesc>
+<prodNbr>206619346</prodNbr>
+<PartNbr>707510-L-ABZ</PartNbr>
+<dfcCoreVendorNo>18714</dfcCoreVendorNo>
+<sellPkWt>1311.36</sellPkWt>
+<ShpToAddrDtl>
+<name>Gilbert Butler</name>
+<addrLn>C/O THD Ship to Store #0473</addrLn>
+<addrLn2>425 S Val Vista Dr</addrLn2>
+<addrLn3>
+</addrLn3>
+<city>Mesa</city>
+<stateCd>AZ</stateCd>
+<postCd>85204</postCd>
+<ctryCd>US</ctryCd>
+<phnNbr1>
+<phnNbr>4803960227</phnNbr>
+</phnNbr1>
+</ShpToAddrDtl>
+<Item>
+<length>38.813</length>
+<width>4.00</width>
+<depth>80.938</depth>
+<dimUom>INCH</dimUom>
+<weight>81.96</weight>
+<wtUom>LBS</wtUom>
+<isHazmat>N</isHazmat>
+</Item>
+</poDtl>
+<poSummary>
+</poSummary>
+</po>
+</PO_850>

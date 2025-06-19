@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?><PO_850>
+<msgHdr>
+<docType>Purchase Order</docType>
+<origID>GERS</origID>
+<origType>ZZ</origType>
+<recipID>HDCOM</recipID>
+<recipType>ZZ</recipType>
+<strNbr>8119</strNbr>
+</msgHdr>
+<po>
+<poHdr>
+<locId>6007</locId>
+<byoNbr>25</byoNbr>
+<docTrcID>0016182623</docTrcID>
+<poNbr>16182623</poNbr>
+<custOrdNbr>QA16182623</custOrdNbr>
+<trnsPrpCd>00</trnsPrpCd>
+<ordTypCd>DR</ordTypCd>
+<shipToType>STH</shipToType>
+<poCrtDt>2019-03-22T10:00:00</poCrtDt>
+<currCd>USD</currCd>
+<exchRt>1</exchRt>
+<mVndrNm>
+</mVndrNm>
+<mVndrNbr>6007</mVndrNbr>
+<emailAdr>
+</emailAdr>
+<carrierDtl>
+<trnsMde>SG</trnsMde>
+<carrQLCd>
+</carrQLCd>
+<SCAC>
+</SCAC>
+</carrierDtl>
+<CustAddrDtl>
+<name>QA Ontrac Test PO</name>
+<addrLn>
+</addrLn>
+<addrLn2>
+</addrLn2>
+<addrLn3>
+</addrLn3>
+<city>
+</city>
+<stateCd>
+</stateCd>
+<postCd>
+</postCd>
+<ctryCd>
+</ctryCd>
+<phnNbr1>
+<phnNbr>
+</phnNbr>
+</phnNbr1>
+</CustAddrDtl>
+<ShpToAddrDtl>
+<name>QA Ontrac Test PO</name>
+<addrLn>C/O THD Ship to Store #6968</addrLn>
+<addrLn2>900 13th St</addrLn2>
+<addrLn3/>
+<city>Sacramento</city>
+<stateCd>CA</stateCd>
+<postCd>90680</postCd>
+<ctryCd>US</ctryCd>
+<phnNbr1>
+<phnNbr>1234567890</phnNbr>
+</phnNbr1>
+</ShpToAddrDtl>
+<StrAddrDtl>
+<strNbr>6968</strNbr>
+<name>Home Depot</name>
+</StrAddrDtl>
+<GiftMessage>
+<mess1>
+</mess1>
+<mess2>
+</mess2>
+<mess3>
+</mess3>
+</GiftMessage>
+</poHdr>
+<poDtl>
+<poLnNbr>1</poLnNbr>
+<merDptNbr>26</merDptNbr>
+<poLnQty>1.0</poLnQty>
+<uom>EA</uom>
+<poLnUnitCst>104.3</poLnUnitCst>
+<skuNbr>1000676425</skuNbr>
+<upc>089066070318</upc>
+<skuDesc>BLOWER ACCESSORY</skuDesc>
+<prodNbr>100597845</prodNbr>
+<PartNbr>7031</PartNbr>
+<dfcCoreVendorNo>18597</dfcCoreVendorNo>
+<sellPkWt>752.00</sellPkWt>
+<ShpToAddrDtl>
+<name>QA Ontrac Test PO</name>
+<addrLn>C/O THD Ship to Store #6968</addrLn>
+<addrLn2>900 13th St</addrLn2>
+<addrLn3/>
+<city>Sacramento</city>
+<stateCd>CA</stateCd>
+<postCd>90680</postCd>
+<ctryCd>US</ctryCd>
+<phnNbr1>
+<phnNbr>1234567890</phnNbr>
+</phnNbr1>
+</ShpToAddrDtl>
+<Item>
+<length>10.00</length>
+<width>6.00</width>
+<depth>8.00</depth>
+<dimUom>INCH</dimUom>
+<weight>10.00</weight>
+<wtUom>LBS</wtUom>
+<isHazmat>N</isHazmat>
+</Item>
+</poDtl>
+<poSummary>
+</poSummary>
+</po>
+</PO_850>

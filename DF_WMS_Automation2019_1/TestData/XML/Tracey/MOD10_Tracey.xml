@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><tXML>
+	<Header>
+	   <Source>Mincron</Source>
+	   <Action_Type>Create</Action_Type>
+	   <Reference_ID>PO12101122 2021-12-10 00:00:00</Reference_ID>
+	   <User_ID>WMBATCH</User_ID>
+	   <Message_Type>PurchaseOrder</Message_Type>
+	   <Company_ID>1001</Company_ID>
+	   <Msg_Locale>English (United States)</Msg_Locale>
+	   <Version>2012</Version>
+	</Header>
+	<Message>
+	   <Order>
+	       <PurchaseOrderType>PO</PurchaseOrderType>
+	       <BusinessUnit>1001</BusinessUnit>
+	       <OrderId>PO12101122</OrderId>
+	       <IsCancelled>false</IsCancelled>
+	       <IsClosed>false</IsClosed>
+	       <DestinationFacilityAliasId>5841</DestinationFacilityAliasId>
+	       <BusinessPartnerCode>17289</BusinessPartnerCode>
+	       <PoDueDate>12/11/2021  00:00:00</PoDueDate>
+	       <MiscInstrCode2>N</MiscInstrCode2>
+	       <PODate>12/10/2021 00:00:00</PODate>
+	       <ProcessInfo>
+	           <IsBackOrderred/>
+	       </ProcessInfo>
+	       <LineItem>
+	           <LineItemId>1</LineItemId>
+	           <ItemName>1000014451</ItemName>
+	           <Description>2282-1-K4 CMBR 21X20 LAV 1HK4</Description>
+	           <IsCancelled>FALSE</IsCancelled>
+	           <IsClosed>FALSE</IsClosed>
+	           <UnitMonetaryValue>438.64</UnitMonetaryValue>
+	           <MvSizeUom>EA</MvSizeUom>
+	           <MvCurrencyCode>USD</MvCurrencyCode>
+	           <ItemGtin/>
+	           <ProcessImmediateNeeds>True</ProcessImmediateNeeds>
+	           <LineStatus>Created</LineStatus>
+	           <FinalDestFacilityAliasId>5841</FinalDestFacilityAliasId>
+	           <DestinationFacilityAliasId>5841</DestinationFacilityAliasId>
+	           <Quantity>
+	                <OrderQty>1</OrderQty>
+	                <QtyUOM>EA</QtyUOM>
+	           </Quantity>
+	       </LineItem>
+		   <LineItem>
+	           <LineItemId>2</LineItemId>
+	           <ItemName>1001573368</ItemName>
+	           <Description>2282-1-K4 CMBR 21X20 LAV 1HK4</Description>
+	           <IsCancelled>FALSE</IsCancelled>
+	           <IsClosed>FALSE</IsClosed>
+	           <UnitMonetaryValue>438.64</UnitMonetaryValue>
+	           <MvSizeUom>EA</MvSizeUom>
+	           <MvCurrencyCode>USD</MvCurrencyCode>
+	           <ItemGtin/>
+	           <ProcessImmediateNeeds>True</ProcessImmediateNeeds>
+	           <LineStatus>Created</LineStatus>
+	           <FinalDestFacilityAliasId>5841</FinalDestFacilityAliasId>
+	           <DestinationFacilityAliasId>5841</DestinationFacilityAliasId>
+	           <Quantity>
+	                <OrderQty>1</OrderQty>
+	                <QtyUOM>EA</QtyUOM>
+	           </Quantity>
+	       </LineItem>
+	   </Order>
+	</Message>
+</tXML>

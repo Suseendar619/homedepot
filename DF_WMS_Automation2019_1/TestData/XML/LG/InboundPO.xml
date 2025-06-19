@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><tXML>
+	<Header>
+	   <Source>Mincron</Source>
+	   <Action_Type>Create</Action_Type>
+	   <Reference_ID>PO11192411 2019-11-19 00:00:00</Reference_ID>
+	   <User_ID>WMBATCH</User_ID>
+	   <Message_Type>PurchaseOrder</Message_Type>
+	   <Company_ID>1001</Company_ID>
+	   <Msg_Locale>English (United States)</Msg_Locale>
+	   <Version>2012</Version>
+	</Header>
+	<Message>
+	   <Order>
+	       <PurchaseOrderType>PO</PurchaseOrderType>
+	       <BusinessUnit>1001</BusinessUnit>
+	       <OrderId>PO11192411</OrderId>
+	       <IsCancelled>false</IsCancelled>
+	       <IsClosed>false</IsClosed>
+	       <DestinationFacilityAliasId>6777</DestinationFacilityAliasId>
+	       <BusinessPartnerCode>210855</BusinessPartnerCode>
+	       <PoDueDate>11/19/2019 00:00:00</PoDueDate>
+	       <MiscInstrCode2>N</MiscInstrCode2>
+	       <PODate>11/19/2019 00:00:00</PODate>
+	       <ReferenceField2>6777</ReferenceField2>
+	       <ProcessInfo>
+	            <IsBackOrderred/>
+	       </ProcessInfo>
+	       <LineItem>
+	           <LineItemId>1</LineItemId>
+	           <ItemName>1000537355</ItemName>
+	           <Description>2282-1-K4 CMBR 21X20 LAV 1HK4</Description>
+	           <IsCancelled>FALSE</IsCancelled>
+	           <IsClosed>FALSE</IsClosed>
+	           <UnitMonetaryValue>438.64</UnitMonetaryValue>
+	           <MvSizeUom>EA</MvSizeUom>
+	           <MvCurrencyCode>USD</MvCurrencyCode>
+	           <ItemGtin/>
+	           <ProcessImmediateNeeds>True</ProcessImmediateNeeds>
+	           <LineStatus>Created</LineStatus>
+	           <FinalDestFacilityAliasId>6777</FinalDestFacilityAliasId>
+	           <DestinationFacilityAliasId>6777</DestinationFacilityAliasId>
+	           <Quantity>
+	                <OrderQty>5</OrderQty>
+	                <QtyUOM>EA</QtyUOM>
+	           </Quantity>
+	       </LineItem>	       
+	   </Order>
+	</Message>
+</tXML>

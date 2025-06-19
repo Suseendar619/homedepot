@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><PO_850>
+<msgHdr>
+<docType>Purchase Order</docType>
+<origID>GERS</origID>
+<origType>ZZ</origType>
+<recipID>HDCOM</recipID>
+<recipType>ZZ</recipType>
+<strNbr>0276</strNbr>
+</msgHdr>
+<po>
+<poHdr>
+<locId>6777</locId>
+<merDptNbr>26</merDptNbr>
+<byoNbr>25</byoNbr>
+<docTrcID>0016182648</docTrcID>
+<poNbr>16182648</poNbr>
+<custOrdNbr>QA16182648</custOrdNbr>
+<trnsPrpCd>00</trnsPrpCd>
+<ordTypCd>DR</ordTypCd>
+<shipToType>STH</shipToType>
+<poCrtDt>2019-03-27T10:00:00</poCrtDt>
+<currCd>USD</currCd>
+<exchRt>1</exchRt>
+<mVndrNm/>
+<mVndrNbr>6777</mVndrNbr>
+<shpByDt>2018-04-06</shpByDt>
+<shpReqDt>2018-04-06</shpReqDt>
+<emailAdr/>
+<carrierDtl>
+<trnsMde>ET</trnsMde>
+<carrQLCd/>
+<SCAC/>
+</carrierDtl>
+<CustAddrDtl>
+<name>QA Test HDU</name>
+<addrLn/>
+<addrLn2/>
+<addrLn3/>
+<city/>
+<stateCd/>
+<postCd/>
+<ctryCd/>
+<phnNbr1>
+<phnNbr/>
+</phnNbr1>
+</CustAddrDtl>
+<ShpToAddrDtl>
+<name>QA Test HDU</name>
+<addrLn>4600 Bruce Herd Ln</addrLn>
+<addrLn2/>
+<addrLn3/>
+<city>Fort Myers</city>
+<stateCd>FL</stateCd>
+<postCd>33905</postCd>
+<ctryCd>US</ctryCd>
+<phnNbr1>
+<phnNbr/>
+</phnNbr1>
+</ShpToAddrDtl>
+<StrAddrDtl>
+<strNbr/>
+<name>Home Depot</name>
+</StrAddrDtl>
+<GiftMessage>
+<mess1/>
+<mess2/>
+<mess3/>
+</GiftMessage>
+</poHdr>
+<poDtl>
+<poLnNbr>1</poLnNbr>
+<poLnQty>1.0</poLnQty>
+<uom>EA</uom>
+<poLnUnitCst>70.1</poLnUnitCst>
+<skuNbr>1000094325</skuNbr>
+<upc>710631918444</upc>
+<skuDesc>EDGEWATER II 52 IN. INDOOROUTDOOR N</skuDesc>
+<prodNbr>300069166</prodNbr>
+<PartNbr>PCT-101JD</PartNbr>
+<dfcCoreVendorNo>17441</dfcCoreVendorNo>
+<sellPkWt>23.98</sellPkWt>
+<ShpToAddrDtl>
+<name>QA Test HDU</name>
+<addrLn>4600 Bruce Herd Ln</addrLn>
+<addrLn2/>
+<addrLn3/>
+<city>Fort Myers</city>
+<stateCd>FL</stateCd>
+<postCd>33905</postCd>
+<ctryCd>US</ctryCd>
+<phnNbr1>
+<phnNbr/>
+</phnNbr1>
+</ShpToAddrDtl>
+<Item>
+<length>23.30</length>
+<width>12.60</width>
+<depth>11.22</depth>
+<dimUom>INCH</dimUom>
+<weight>23.98</weight>
+<wtUom>LBS</wtUom>
+<isHazmat>Y</isHazmat>
+</Item>
+</poDtl>
+<poSummary/>
+</po>
+</PO_850>

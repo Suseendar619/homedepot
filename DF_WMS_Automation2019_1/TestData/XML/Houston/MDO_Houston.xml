@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?><tXML>
+	<Header>
+		<Source>Sterling</Source>
+		<Action_Type>Update</Action_Type>
+		<Reference_ID>QA11274356 11274356 2020/11/27 00:00:00</Reference_ID>
+		<User_ID>WMBATCH</User_ID>
+		<Message_Type>DistributionOrder</Message_Type>
+		<Company_ID>1001</Company_ID>
+		<Version>2012</Version>
+	</Header>
+	<Message>
+		<DistributionOrder>
+			<DistributionOrderId>HST0020138</DistributionOrderId>
+			<OrderType>Standard</OrderType>
+			<OrderedDttm>11/27/2020 00:00:00</OrderedDttm>
+			<DoFulfillmentStatus>Released</DoFulfillmentStatus>
+			<IsCancelled>FALSE</IsCancelled>
+			<BusinessUnit>1001</BusinessUnit>
+			<MerchandizingDept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+			<BillingMethodCode>0</BillingMethodCode>
+			<MustReleaseByDttm>11/27/2020 00:00:00</MustReleaseByDttm>
+			<IsHazmat>False</IsHazmat>
+			<ProductionScheduleRefNbr/>
+			<ReferenceField1>COM</ReferenceField1>
+			<ReferenceField2/>
+			<ReferenceField3>MDO</ReferenceField3>
+			<IncotermName>DDU</IncotermName>
+			<DesignatedModeCode/>
+			<DesignatedCarrierCode/>
+			<ExternalSystemPurchaseOrderNbr>03032052</ExternalSystemPurchaseOrderNbr>
+			<SalesOrderNbr>H5604-200239</SalesOrderNbr>
+			<IsBackOrdered>False</IsBackOrdered>
+			<CustomerName>Test Test</CustomerName>
+			<DcCenterNbr/>
+			<FederatedStoreNbr>MDO5831</FederatedStoreNbr>
+			<OriginFacilityAliasId>5831</OriginFacilityAliasId>
+			<PickupStartDttm>12/11/20 00:00:00</PickupStartDttm>
+			<PickupEndDttm>11/27/2020 05:30</PickupEndDttm>
+			<ReferenceField5/>
+			<ReferenceField6>N</ReferenceField6>
+			<ReferenceField8>301441</ReferenceField8>
+			<ReferenceField9>5604</ReferenceField9>
+			<ReferenceField10>5604</ReferenceField10>
+			<ReferenceField11>5604</ReferenceField11>
+			<ReferenceField12>5831</ReferenceField12>
+			<ReferenceField13/>
+			<DestinationFacilityAliasId>MDO5831</DestinationFacilityAliasId>
+			<DestinationFacilityName xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+			<DestinationAddressLine1/>
+			<DestinationAddressLine2/>
+			<DestinationAddressLine3/>
+			<DestinationCity/>
+			<DestinationCountry/>
+			<DestinationStateOrProvince/>
+			<DestinationPostalCode/>
+			<DeliveryStartDttm>11/27/2020 00:00:00</DeliveryStartDttm>
+			<DeliveryEndDttm>12/21/20 00:00:00</DeliveryEndDttm>
+			<DestinationContactName>Test Test</DestinationContactName>
+			<DestinationContactTelephoneNbr>404-6307790</DestinationContactTelephoneNbr>
+			<DestinationContactFaxNbr/>
+			<MajorOrderGroupAttribute/>
+			<LpnCubingIndicator>51</LpnCubingIndicator>
+			<PrepackCubingIndicator/>
+			<ShipGroupId xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+			<InternationalGoodsDescription>Home Improvement Items</InternationalGoodsDescription>
+			<FtsrNbr/>
+			<BillingAccountNbr/>
+			<BillToName>Test Test</BillToName>
+			<BillToFacilityAliasId xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+			<BillToAddressLine1>1234 N NORTHWEST</BillToAddressLine1>
+			<BillToAddressLine2/>
+			<BillToAddressLine3/>
+			<BillToCity>NORTHLAKE</BillToCity>
+			<BillToCounty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+			<BillToCountryCode>US</BillToCountryCode>
+			<BillToStateOrProv>IL</BillToStateOrProv>
+			<BillToPostalCode>60164</BillToPostalCode>
+			<BillToEmailAddress/>
+			<BillToFaxNbr/>
+			<BillToTelephoneNbr>404-6307790</BillToTelephoneNbr>
+			<RouteTo>22</RouteTo>
+			<RouteType1>MDO5831</RouteType1>
+			<RouteType2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+			<RoutingShipGroupNumber xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+			<MarkFor/>
+			<ARAcctNbr/>
+			<ARCode/>
+			<AddressCode/>
+			<AdvertisingCode/>
+			<SchedDlvryEndDate>11/28/2020  00:00:00</SchedDlvryEndDate>
+			<OrderConsolidationProfile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+			<DistributionOrderType>Customer Order</DistributionOrderType>
+			<RoutingAttribute>22</RoutingAttribute>
+			<DsgShipVia xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+			<PartlShipConfFlag>True</PartlShipConfFlag>
+			<TaxId/>
+			<TransportationPlanningOwner>WMS</TransportationPlanningOwner>
+			<LpnLabelType>MDO</LpnLabelType>
+			<NbrOfShippingLabelsToPrint>1</NbrOfShippingLabelsToPrint>
+			<ContentLabelType>01</ContentLabelType>
+			<NbrOfContentLabelsToPrint>1</NbrOfContentLabelsToPrint>
+			<PackingSlipType>PX</PackingSlipType>
+			<BolType>1</BolType>
+			<PrintCommercialInvoice>True</PrintCommercialInvoice>
+			<PrintNaftaCertificateOfOrigin>True</PrintNaftaCertificateOfOrigin>
+			<PrintExportPackingList>True</PrintExportPackingList>
+			<FullProfileName xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+			<ProcessInfo>
+				<RefTextField1/>
+				<RefTextField2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+				<RefTextField3 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+				<RefTextField4 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+				<RefTextField5 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+				<RefTextField6 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+				<RefTextField7 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+				<RefTextField8 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+				<RefTextField9 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+				<RefTextField10 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+				<RefNumberField1 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+				<RefNumberField2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+				<RefNumberField3 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+				<RefNumberField4 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+				<RefNumberField5 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+			</ProcessInfo>
+			<Comment>
+				<NoteType/>
+				<NoteCode/>
+			</Comment>
+			<AccessorialOptionGroupList>
+				<AccessorialOptionGroup>
+					<AccessorialGroupCode xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+				</AccessorialOptionGroup>
+			</AccessorialOptionGroupList>
+			<LineItem>
+				<DoLineNbr>1</DoLineNbr>
+				<ItemName>1002405008</ItemName>
+				<Description xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+				<DoLineStatus>Released</DoLineStatus>
+				<IsCancelled>FALSE</IsCancelled>
+				<AllocationSourceType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+				<ReferenceField1 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+				<ReferenceField2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+				<ReferenceField3 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+				<IsHazmat>False</IsHazmat>
+				<DangerousGoodsCode/>
+				<MerchandizingDepartment xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+				<WaveAllocationType/>
+				<WaveProcessingType>5</WaveProcessingType>
+				<VasProcessType/>
+				<PrepackGroupCode/>
+				<PrepackQty/>
+				<LpnType>NBX</LpnType>
+				<AssortmentNbr/>
+				<Price>643.0</Price>
+				<RetailPrice>643.0</RetailPrice>
+				<PurchaseOrderNbr xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+				<PurchaseOrderLineNbr xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+				<ExternalSystemPurchaseOrderNbr xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+				<StoreDepartment xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+				<MerchandizeGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+				<MerchandizeType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+				<RtsId xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+				<RtsLineId xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+				<AllocationSourceLineId xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+				<AllocationSourceId xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+				<FulfillmentType>1</FulfillmentType>
+				<Quantity>
+					<OrderQty>1</OrderQty>
+					<QtyUOM>EA</QtyUOM>
+				</Quantity>
+				<LineProcessInfo>
+					<LineRefTextField1 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+				</LineProcessInfo>
+				<InventoryAttributes>
+					<InventoryType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+					<ProductStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+					<BatchNbr xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+					<ItemAttribute1 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+					<ItemAttribute2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+					<ItemAttribute3 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+					<ItemAttribute4 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+					<ItemAttribute5 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+				</InventoryAttributes>
+			</LineItem>
+			
+		</DistributionOrder>
+	</Message>
+</tXML>

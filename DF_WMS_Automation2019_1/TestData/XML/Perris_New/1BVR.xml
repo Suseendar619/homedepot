@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><PO_850>
+<msgHdr>
+<docType>Purchase Order</docType>
+<origID>GERS</origID>
+<origType>ZZ</origType>
+<recipID>HDCOM</recipID>
+<recipType>ZZ</recipType>
+<strNbr>8119</strNbr>
+</msgHdr>
+<po>
+<poHdr>
+<locId>6007</locId>
+<byoNbr>25</byoNbr>
+<docTrcID>0016182023</docTrcID>
+<poNbr>16182023</poNbr>
+<custOrdNbr>QA16182023</custOrdNbr>
+<trnsPrpCd>00</trnsPrpCd>
+<ordTypCd>DR</ordTypCd>
+<shipToType>BOSS</shipToType>
+<poCrtDt>2018-10-01T10:00:00</poCrtDt>
+<currCd>USD</currCd>
+<exchRt>1</exchRt>
+<mVndrNm>
+</mVndrNm>
+<mVndrNbr>6007</mVndrNbr>
+<shpByDt>2018-08-22</shpByDt>
+<shpReqDt>2018-08-22</shpReqDt>
+<emailAdr>
+</emailAdr>
+<carrierDtl>
+<trnsMde>SG</trnsMde>
+<carrQLCd>
+</carrQLCd>
+<SCAC>
+</SCAC>
+</carrierDtl>
+<CustAddrDtl>
+<name>Raymond Momboisse</name>
+<addrLn>
+</addrLn>
+<addrLn2>
+</addrLn2>
+<addrLn3>
+</addrLn3>
+<city>
+</city>
+<stateCd>
+</stateCd>
+<postCd>
+</postCd>
+<ctryCd>
+</ctryCd>
+<phnNbr1>
+<phnNbr>
+</phnNbr>
+</phnNbr1>
+</CustAddrDtl>
+<ShpToAddrDtl>
+<name>Raymond Momboisse</name>
+<addrLn>C/O THD Ship to Store #6967</addrLn>
+<addrLn2>1590 Canyon Del Rey Blvd</addrLn2>
+<addrLn3>
+</addrLn3>
+<city>Seaside</city>
+<stateCd>CA</stateCd>
+<postCd>93955</postCd>
+<ctryCd>US</ctryCd>
+<phnNbr1>
+<phnNbr>8315830778</phnNbr>
+</phnNbr1>
+</ShpToAddrDtl>
+<StrAddrDtl>
+<strNbr>6967</strNbr>
+<name>Home Depot</name>
+</StrAddrDtl>
+<GiftMessage>
+<mess1>
+</mess1>
+<mess2>
+</mess2>
+<mess3>
+</mess3>
+</GiftMessage>
+</poHdr>
+<poDtl>
+<poLnNbr>501</poLnNbr>
+<merDptNbr>26</merDptNbr>
+<poLnQty>2.0</poLnQty>
+<uom>EA</uom>
+<poLnUnitCst>90.05</poLnUnitCst>
+<skuNbr>1001207407</skuNbr>
+<upc>034449624220</upc>
+<skuDesc>Windemere 1??Handle Shower Only Faucet Trim Kit in Stainless (Valve Not Included)</skuDesc>
+<prodNbr>202985400</prodNbr>
+<PartNbr>BT14296-SS</PartNbr>
+<dfcCoreVendorNo>19520</dfcCoreVendorNo>
+<sellPkWt>37.60</sellPkWt>
+<ShpToAddrDtl>
+<name>Raymond Momboisse</name>
+<addrLn>C/O THD Ship to Store #6967</addrLn>
+<addrLn2>1590 Canyon Del Rey Blvd</addrLn2>
+<addrLn3>
+</addrLn3>
+<city>Seaside</city>
+<stateCd>CA</stateCd>
+<postCd>93955</postCd>
+<ctryCd>US</ctryCd>
+<phnNbr1>
+<phnNbr>8315830778</phnNbr>
+</phnNbr1>
+</ShpToAddrDtl>
+<Item>
+<length>10.30</length>
+<width>8.40</width>
+<depth>4.60</depth>
+<dimUom>INCH</dimUom>
+<weight>2.35</weight>
+<wtUom>LBS</wtUom>
+<isHazmat>N</isHazmat>
+</Item>
+</poDtl>
+<poSummary>
+</poSummary>
+</po>
+</PO_850>

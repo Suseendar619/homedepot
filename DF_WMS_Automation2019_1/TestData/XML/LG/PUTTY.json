@@ -1,0 +1,9 @@
+{
+    "testcase_name": "parcel_order_picking",
+    "input_params": {
+        
+        "task_id" : "21652559",
+        "tote": "T2019091207",
+        "qty": "1"
+    }
+}
